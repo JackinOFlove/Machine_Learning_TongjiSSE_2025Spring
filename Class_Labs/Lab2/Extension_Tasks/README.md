@@ -38,7 +38,7 @@ The code produces several key visualizations:
 
 ## Running the Code
 ```bash
-python complexity_analysis.py
+python Complexity_Analysis.py
 ```
 
 ## Output
