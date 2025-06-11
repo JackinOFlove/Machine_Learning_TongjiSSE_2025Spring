@@ -1,0 +1,41 @@
+学习到的所有规则：
+规则 0:
+Arterial Blood Pressure systolic High after INR High
+规则 1:
+Chloride High equal BUN High
+规则 2:
+O2 saturation pulseoxymetry Low after Arterial O2 pressure Low
+规则 3:
+Arterial CO2 Pressure Low before Creatinine Low
+规则 4:
+Arterial Blood Pressure diastolic High equal Hemoglobin High
+规则 5:
+HCO3 Low after Potassium Low
+规则 6:
+Hematocrit Low after Arterial Blood Pressure diastolic High
+规则 7:
+Arterial Base Excess High equal Glucose Low
+规则 8:
+Heart Rate High after Arterial Blood Pressure systolic Low
+规则 9:
+White Blood Cells High equal Arterial Blood Pressure diastolic High
+规则 10:
+Respiratory Rate High equal Arterial CO2 Pressure High
+规则 11:
+Glucose High before Arterial Base Excess High
+规则 12:
+Respiratory Rate Low equal Chloride Low
+规则 13:
+White Blood Cells Low after Hemoglobin High
+规则 14:
+Chloride High equal HCO3 Low
+规则 15:
+HCO3 Low before Heart Rate Low
+规则 16:
+O2 saturation pulseoxymetry Low before Hematocrit Low
+规则 17:
+Heart Rate High equal Hematocrit Low
+规则 18:
+Platelet Count Low equal Potassium High
+规则 19:
+Arterial CO2 Pressure Low before Sodium Low
