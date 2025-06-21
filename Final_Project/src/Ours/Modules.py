@@ -801,8 +801,8 @@ def optimize(data, var_name_dict, target_name, max_order=1, num_candidates=10, n
 if __name__ == "__main__":
 
     # 测试代码
-    file_path = "aki_dataset_all.csv"
-    target_name = "Phase III"
+    file_path = "Stroke_dataset_all.csv"
+    target_name = "Middle_to_Sever"
 
     data, var_name_dict = read_data(file_path, target_varibles=target_name)
     print(f"The data have {len(data)} samples.")

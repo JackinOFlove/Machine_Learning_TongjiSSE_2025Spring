@@ -18,10 +18,11 @@ Final_Project/
 │   │   └── Stroke_Raw_Dataprocess.ipynb     # 中风数据处理
 │   └── Reproduction/          # 对比方法复现
 │       ├── Clnn/              # CLNN方法复现
-│       ├── Cluster/           # Cluster方法复现
-│       └── Teller/            # Teller方法复现
+│       ├── Cluster/           # ClUSTER方法复现
+│       └── Teller/            # TELLER方法复现
 ├── README.md                  # 项目说明文档
-└── REPORT.pdf                 # 详细的项目报告
+├── Report.pdf                 # 详细的项目报告
+└── Slides.pptx   			   # 课堂展示 PPT
 ```
 
 ## 环境要求
