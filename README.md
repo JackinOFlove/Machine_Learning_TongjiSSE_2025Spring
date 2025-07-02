@@ -31,7 +31,7 @@ Machine_Learning_TongjiSSE_2025Spring/
 
 **Research and Improvement of Temporal Point Process Models**
 
-Proposed a rule-aware event prediction framework on medical event sequences using improved temporal point process models. Evaluated on three real-world datasets (stroke, sepsis, Coroheart) and compared with CLUSTER, CLNN, and TELLER.
+Proposed a rule-aware event prediction framework on medical event sequences using improved temporal point process models. Evaluated on three real-world datasets (Stroke, Sepsis, Coroheart) and compared with CLUSTER, CLNN, and TELLER.
 
 ## Grades
 
